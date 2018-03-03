@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Projeto para fluxo do android studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Felipe",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect-multiparty": "^2.1.0",
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "express-mongo-db": "^2.0.3",
+    "http": "0.0.0",
+    "is-empty": "^1.2.0",
+    "isemail": "^3.0.0",
+    "mongod": "^2.0.0",
+    "mongodb": "^3.0.1"
+  }
+}
